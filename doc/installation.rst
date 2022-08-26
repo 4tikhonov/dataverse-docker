@@ -3,9 +3,8 @@ dataverse.no installation
 
 Prerequisites :  have sudo rights
 
-``
-sudo su
-sudo apt-get update
+``sudo su``
+``sudo apt-get update
 sudo apt-get install \
     ca-certificates \
     curl \
